@@ -43,3 +43,15 @@ The application helps users organize their daily activities by creating, managin
 ---
 
 ## Project Structure
+
+Open the project in FlutterFlow or Flutter.
+
+---
+
+## Author
+
+Mohamed Mukeh Lamboi 
+
+Mobile Application Development
+
+2026
